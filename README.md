@@ -21,11 +21,15 @@ The main purpose of implementing this concept is to increase the voting percenta
 </ol>
 
 <h1>System View</h1>
-Face Recognition Process
-![image](https://user-images.githubusercontent.com/58871655/118357499-1ceeca80-b598-11eb-9cb6-b0afa60f0426.png)
-![image](https://user-images.githubusercontent.com/58871655/118357428-c97c7c80-b597-11eb-843d-c800525ca033.png)<br>
-![image](https://user-images.githubusercontent.com/58871655/118357434-d6996b80-b597-11eb-9e51-a6e476486e2e.png)
-![image](https://user-images.githubusercontent.com/58871655/118357437-dd27e300-b597-11eb-8887-97402a7e00bb.png)<br>
-![image](https://user-images.githubusercontent.com/58871655/118357442-e31dc400-b597-11eb-8fea-aae70fd1da7a.png)
-![image](https://user-images.githubusercontent.com/58871655/118357447-e913a500-b597-11eb-844e-46c50266e29c.png)<br>
-![image](https://user-images.githubusercontent.com/58871655/118357455-efa21c80-b597-11eb-9551-4b5f01b14621.png)
+Face Recognition Process: <img src="https://user-images.githubusercontent.com/58871655/118357428-c97c7c80-b597-11eb-843d-c800525ca033.png">
+<img src="https://user-images.githubusercontent.com/58871655/118357434-d6996b80-b597-11eb-9e51-a6e476486e2e.png">
+Verification Failed: <img src="https://user-images.githubusercontent.com/58871655/118357437-dd27e300-b597-11eb-8887-97402a7e00bb.png">
+OTP Sent:<img src="https://user-images.githubusercontent.com/58871655/118357442-e31dc400-b597-11eb-8fea-aae70fd1da7a.png">
+Voting Page:<img src="https://user-images.githubusercontent.com/58871655/118357447-e913a500-b597-11eb-844e-46c50266e29c.png">
+After Voting Result Page:<img src="https://user-images.githubusercontent.com/58871655/118357455-efa21c80-b597-11eb-9551-4b5f01b14621.png">
+
+<hr>
+
+## LINK FOR DEMO VIDEO https://drive.google.com/file/d/1NPwlEMYmVPlUeVNtjAmu7scA1PUAmyEm/view
+
+Keywords: E-voting, Ethereum, Blockchain, Face recognition, OTP, Electronic Voting System, Decentralized, and Election.
